@@ -1,17 +1,16 @@
 ### doces_finos
-
 Projeto que será desenvolvido a fim de estudos.
 
-### Start do Projeto
-
+### Start
 Primeira etapa do projeto, replicaremos apenas o layout com todas as funcionalidades sem um back-end.
 
 ### Figma da Aplicação
-
 https://www.figma.com/file/hAmq7jYYU0U6n4nQDuxJnu/SCDF?type=design&node-id=2-2&mode=design
 
-### Boas praticas
+### Board de Tarefas
+https://trello.com/b/0YokhS0A/docesfinos
 
+### Boas praticas
 **build**: Alterações que afetam o sistema de construção ou dependências externas (escopos de exemplo: gulp, broccoli, npm);
 
 **ci**: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs);
