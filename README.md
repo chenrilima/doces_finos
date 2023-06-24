@@ -2,7 +2,7 @@
 
 Projeto que será desenvolvido a fim de estudos.
 
-### Getting Started
+### Start do Projeto
 
 Primeira etapa do projeto, replicaremos apenas o layout com todas as funcionalidades sem um back-end.
 
