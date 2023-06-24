@@ -11,7 +11,7 @@ https://www.figma.com/file/hAmq7jYYU0U6n4nQDuxJnu/SCDF?type=design&node-id=2-2&m
 https://trello.com/b/0YokhS0A/docesfinos
 
 ### Padrão MVC Pattern
-[https://trello.com/b/0YokhS0A/docesfinos](https://rohaaan.hashnode.dev/mastering-the-mvc-pattern-in-flutter-a-guide-to-better-code-organization)]
+https://rohaaan.hashnode.dev/mastering-the-mvc-pattern-in-flutter-a-guide-to-better-code-organization
 
 ### Boas praticas
 * **build**: Alterações que afetam o sistema de construção ou dependências externas (escopos de exemplo: gulp, broccoli, npm);
